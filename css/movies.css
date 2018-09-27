@@ -24,10 +24,13 @@ html,body {
   .container .columns {
     margin: 1rem 0;
   }
-  .container h1 {
+  .topheading {
     font-size: 2rem;
     padding-top: 1rem;
     border-bottom: 3px solid #3498DB;
+  }
+  .top {
+    padding-top: 3.5rem;
   }
   .navbar-menu .navbar-item {
     padding: 0 2rem;
